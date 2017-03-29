@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["GDT_EC same S1 K1,K2,K3,K4 1"]},{"code":356,"indent":0,"parameters":["GDT_EC same S2 K1,K2,K3,K4 2"]},{"code":356,"indent":0,"parameters":["GDT_EC same S3 K1,K2,K3,K4 3"]},{"code":356,"indent":0,"parameters":["GDT_EC same S4 K1,K2,K3,K4 4"]},{"code":111,"indent":0,"parameters":[0,1,0]},{"code":111,"indent":1,"parameters":[0,2,0]},{"code":111,"indent":2,"parameters":[0,3,0]},{"code":111,"indent":3,"parameters":[0,4,0]},{"code":121,"indent":4,"parameters":[5,5,0]},{"code":121,"indent":4,"parameters":[10,10,1]},{"code":0,"indent":4,"parameters":[]},{"code":412,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Puzzle Check","switchId":10,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
